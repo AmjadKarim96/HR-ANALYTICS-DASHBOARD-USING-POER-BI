@@ -1,4 +1,4 @@
-# HR Analytics Dashboard Project using Power BI! 🚀
+# HR Analytics Dashboard Project using Power BI! 
 
 Welcome to the HR Analytics Dashboard project created in Power BI! This dashboard provides comprehensive insights into various HR metrics, enabling data-driven decision-making and strategic workforce planning.
 
